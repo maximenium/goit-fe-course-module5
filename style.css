@@ -102,12 +102,12 @@ main{
 
 .slider-button-first{
   left: 246px;
-  background-image: url(../images5/icon/first.png);
+  background-image: url(../goit-fe-course-module5/images5/icon/first.png);
 }
 
 .slider-button-second{
   right: 246px;
-  background-image: url(../images5/icon/second.png);
+  background-image: url(../goit-fe-course-module5/images5/icon/second.png);
 }
 
 .for-slide{
@@ -187,7 +187,7 @@ main{
 .wish{
   top: 80px;
   left: 36px;
-  background-image: url(../images5/icon/wish.png);
+  background-image: url(../goit-fe-course-module5/images5/icon/wish.png);
 }
 
 .wish:hover,
@@ -200,19 +200,19 @@ main{
 .arrow{
   top: 80px;
   left: 94px;
-  background-image: url(../images5/icon/arrow.png);
+  background-image: url(../goit-fe-course-module5/images5/icon/arrow.png);
 }
 
 .clock{
   top: 80px;
   left: 152px;
-  background-image: url(../images5/icon/clock.png);
+  background-image: url(../goit-fe-course-module5/images5/icon/clock.png);
 }
 
 .basket{
   top: 136px;
   left: 36px;
-  background-image: url(../images5/icon/busket.png);
+  background-image: url(../goit-fe-course-module5/images5/icon/busket.png);
   width: 164px;
   height: 48px;
   font-size: 14px;
